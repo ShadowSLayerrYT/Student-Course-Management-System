@@ -1,0 +1,50 @@
+/* deletecourse.css */
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+  }
+  
+  /* Adjust width to account for the scrollbar */
+  .delete-course-container {
+    width: calc(400px + (100vw - 100%)); /* Adjust width as needed */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto; /* Enable vertical scrolling if needed */
+  }
+
+h2 {
+    margin-top: 0;
+}
+
+.course-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.delete-button {
+    display: block;
+    width: 100%;
+    padding: 15px; /* Increased padding */
+    background-color: #61a5b8; /* Green color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+    background-color: #4c85a9; /* Darker green color on hover */
+}

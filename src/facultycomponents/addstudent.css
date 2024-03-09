@@ -1,0 +1,36 @@
+/* addstudent.css */
+
+.add-student-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-student-form h3 {
+    margin-bottom: 20px;
+}
+
+.add-student-form input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.add-student-form .submit-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-student-form .submit-button:hover {
+    background-color: #45a049;
+}

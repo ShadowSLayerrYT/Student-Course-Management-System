@@ -18,7 +18,6 @@ Welcome to our comprehensive Student Course Management System built using the ME
 - **Frontend:** React.js with responsive design for a seamless user experience.
 - **Backend:** Express.js and Node.js for robust server-side development.
 - **Database:** MongoDB for efficient and scalable data storage.
-- **Authentication:** JWT tokens for secure user authentication.
 
 🔗 **Getting Started:**
 

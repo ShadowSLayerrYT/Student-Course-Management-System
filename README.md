@@ -1,4 +1,4 @@
-# React App with Node.js Server - README
+# React App with Node.js Server 
 
 Welcome to the repository for your React app with a Node.js server! Follow the steps below to get started.
 

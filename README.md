@@ -1,10 +1,6 @@
 # React App with Node.js Server 
 
-Certainly! Crafting a compelling and informative description for your Git repository is crucial for attracting collaborators and users. Here's a suggested description for your MERN stack project of a Student Course Management System:
-
 ---
-
-**Repository Description:**
 
 🎓 **Student Course Management System (MERN Stack)** 🌐
 

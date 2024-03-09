@@ -29,6 +29,8 @@ Before you begin, ensure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/)
 - [nodemon](https://nodemon.io/) (install globally)
 
+Create a file with the name "sample" and save all these files in it and install npm packages in it.
+
 ## Clone the Repository
 
 ```bash

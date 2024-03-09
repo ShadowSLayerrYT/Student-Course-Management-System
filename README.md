@@ -95,7 +95,7 @@ This project is currently under active development. Your feedback and contributi
 - You can customize the server configurations in the `server/app.js` file.
 - Ensure your firewall settings allow connections to the specified ports.
 
-This is how the final database in the backend (MongoDBCompass) should be looking like: 
+This is how the final database in the backend (MongoDBCompass) should be looking like , make sure to use the same classes and sub-classes for accurate results.
 
 
 ![Capture](https://github.com/ShadowSLayerrYT/Student-Course-Management-System/assets/156091266/a460eba3-bb7a-4d47-8e3f-c53a0b4e8a01)
